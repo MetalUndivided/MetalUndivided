@@ -12,8 +12,8 @@ I am currently looking for employment opportunities in Machine Learning / Data S
 ### Projects / Repositories
 | Name | Description | Status
 |------|-------------|-------
-| [Yandex Practicum Projects](https://github.com/MetalUndivided/Yandex_Practicum) | An assortment of projects completed whilst studying at Yandex Practicum | Complete
-| [Bird Classifier](https://github.com/MetalUndivided/Pet_Projects/tree/master/Bird_Classifier) | A ResNet trained for identifying one of the 525 bird species. Done primarily to get myself acquainted wiht PyTorch. | Under Work
+| [Yandex Practicum Projects](https://github.com/MetalUndivided/Yandex_Practicum) | An assortment of projects completed whilst studying at Yandex Practicum | Completed
+| [Bird Classifier](https://github.com/MetalUndivided/Pet_Projects/tree/master/Bird_Classifier) | A ResNet trained for identifying bird species in photo using a Kaggle-sourced dataset. Done primarily to get myself acquainted with PyTorch. | Under Work
 
 ### Proficient in:
   * Python
