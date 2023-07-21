@@ -6,7 +6,15 @@ After working in the upstream O&G for 3+ years I've decided to change careers in
 
 I am currently looking for employment opportunities in Machine Learning / Data Science field.
 
-### Used tools
+### Contacts
+  * (Telegram)[https://t.me/Metal_Undivided]
+
+### Projects / Repositories
+| Name | Description | Status
+| [Yandex Practicum Projects](https://github.com/MetalUndivided/Yandex_Practicum) | An assortment of projects completed whilst studying at Yandex Practicum | Complete
+| [Bird Classifier](https://github.com/MetalUndivided/Pet_Projects/tree/master/Bird_Classifier) | A ResNet trained for identifying one of the 525 bird species. Done primarily to get myself acquainted wiht PyTorch. | Under Work
+
+### Proficient in:
   * Python
   * Pandas, Numpy, SciPy
   * Matplotlib, Seaborn
