@@ -20,8 +20,9 @@ I am currently looking for employment opportunities in Machine Learning / Data S
   * Pandas, Numpy, SciPy
   * Matplotlib, Seaborn
   * Sklearn
-  * NLTK
+  * Catboost, LightGBM
   * Pytorch, Keras
+  * NLTK
   * Git
   * Desktop Linux
 
