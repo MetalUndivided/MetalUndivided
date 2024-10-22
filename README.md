@@ -1,10 +1,6 @@
 ## Hello, I'm Ilya Zhivotikov
 
-I'm an aspiring Data Scientist and a former Reservoir Engineer in the O&G industry.
-
-After working in the upstream O&G for 3+ years I've decided to change careers in pursuit of more interesting and impactful work.
-
-I am currently looking for employment opportunities in Machine Learning / Data Science field.
+I'm Reservoir Engineer in the O&G industry and an aspiring Data Scientist.
 
 ### Contacts
   * [Telegram](https://t.me/Metal_Undivided)
@@ -25,7 +21,7 @@ I am currently looking for employment opportunities in Machine Learning / Data S
   * Pytorch, Keras
   * NLTK
   * Git
-  * Desktop Linux
+  * Linux
 
 <!--
 **MetalUndivided/MetalUndivided** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
