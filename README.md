@@ -1,6 +1,6 @@
 ## Hello, I'm Ilya Zhivotikov
 
-I'm Reservoir Engineer in the O&G industry and an aspiring Data Scientist.
+I'm a Reservoir Engineer in the O&G industry whose interests span mathematics and programming. 
 
 ### Contacts
   * [Telegram](https://t.me/Metal_Undivided)
